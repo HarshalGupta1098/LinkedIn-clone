@@ -9,15 +9,6 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-<!-- TABLE OF CONTENTS -->
-
-## Table of Contents
-
-- [About the Project](#about-the-project)
-- [Contributors](#contributors)
-- [Acknowledgements](#acknowledgements)
-- [License](#license)
-
 ### About the Project
 
 > The <b>LinkedIn-clone</b> web application presents a custom LinkedIn-clone.
@@ -80,28 +71,7 @@ Most important, enjoy the app!<br>
    `yarn test`
 
 
-## Contributors
-
-**Author**
-
-​**Adetayo Sunkanmi**
-
-- Github: [jstloyal](https://github.com/jstloyal)
-- Twitter: [@jstloyalty](https://twitter.com/jstloyalty)
-- Linkedin: [Adetayo Sunkanmi](https://www.linkedin.com/in/jstloyalty)
-- E-mail: jstloyalty@gmail.com
-
-<!-- ACKNOWLEDGEMENTS -->
-
-## Acknowledgements
-
-- [YouTub](https://www.youtube.org/)
 
 ## License
-
 📝
 This project is [MIT](https://opensource.org/licenses/MIT) licensed.
-
-## Show your support
-
-If you've read this far....give us a ⭐️!
